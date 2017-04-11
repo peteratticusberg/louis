@@ -1,0 +1,9 @@
+{
+  "name": "louis",
+  "version": "0.0.1",
+  "description": "Louis generates graphql queries and mutations for you 🤖",
+  "main": "lib/index.js",
+  "repository": "https://github.com/peteratticusberg/louis",
+  "author": "Peter Berg <atticusberg@gmail.com>",
+  "license": "MIT"
+}
